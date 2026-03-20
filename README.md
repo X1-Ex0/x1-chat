@@ -22,7 +22,7 @@ x1-chat/
 │
 ├── client/        # aplikasi client (GUI)
 ├── server/        # server socket
-├── assets/        # (optional) screenshot
+├── assets/        # screenshot
 ├── README.md
 └── requirements.txt
 ```

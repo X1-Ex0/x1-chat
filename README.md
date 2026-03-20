@@ -110,8 +110,8 @@ Semua komunikasi pakai format string:
 ## 📸 Screenshot
 
 ![Chat UI](assets/screenshot.png)
-![Chat UI](assets/screenshot_1.png)
-![Chat UI](assets/screenshot_2.png)
+![Chat UI](assets/ss1.jpg)
+![Chat UI](assets/ss2.jpg)
 
 ## 🛠️ Tech Stack
 

@@ -109,19 +109,7 @@ Semua komunikasi pakai format string:
 
 ## 📸 Screenshot
 
-Tambahin nanti kalau mau:
-
-```
-assets/screenshot.png
-```
-
-Lalu di sini:
-
-```
-![App Screenshot](assets/screenshot.png)
-```
-
----
+![Chat UI](assets/screenshot.png)
 
 ## 🛠️ Tech Stack
 

@@ -57,7 +57,7 @@ python main.py
 
 ## ⚙️ Configuration
 
-Edit file client (biasanya di `state.py` atau config):
+Edit file client ( `state.py`):
 
 ```python
 HOST = "127.0.0.1"

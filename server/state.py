@@ -1,0 +1,1 @@
+clients = {}  # {nickname: socket}
